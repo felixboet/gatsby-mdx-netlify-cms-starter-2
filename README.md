@@ -5,7 +5,7 @@ Extended from the Gatsby starter, this starter aims to provide an example for us
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e556df2f-659a-4d2d-9466-8575e6976936/deploy-status)](https://app.netlify.com/sites/mystifying-mclean-5c7fce/deploys)
 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/renvrant/gatsby-mdx-netlify-cms-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/felixboet/gatsby-mdx-netlify-cms-starter-1)
 
 ## Features
 
